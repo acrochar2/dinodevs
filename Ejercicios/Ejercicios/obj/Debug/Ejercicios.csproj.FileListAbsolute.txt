@@ -1,0 +1,8 @@
+c:\users\anacristina\documents\visual studio 2012\Projects\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe.config
+c:\users\anacristina\documents\visual studio 2012\Projects\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe
+c:\users\anacristina\documents\visual studio 2012\Projects\Ejercicios\Ejercicios\bin\Debug\Ejercicios.pdb
+c:\users\anacristina\documents\visual studio 2012\Projects\Ejercicios\Ejercicios\bin\Debug\CapaDatos.dll
+c:\users\anacristina\documents\visual studio 2012\Projects\Ejercicios\Ejercicios\bin\Debug\CapaDatos.pdb
+c:\users\anacristina\documents\visual studio 2012\Projects\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csprojResolveAssemblyReference.cache
+c:\users\anacristina\documents\visual studio 2012\Projects\Ejercicios\Ejercicios\obj\Debug\Ejercicios.exe
+c:\users\anacristina\documents\visual studio 2012\Projects\Ejercicios\Ejercicios\obj\Debug\Ejercicios.pdb
